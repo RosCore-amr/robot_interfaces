@@ -1,0 +1,2 @@
+LocationStock entry_location
+LocationStock end_location

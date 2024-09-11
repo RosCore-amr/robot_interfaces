@@ -1,0 +1,2 @@
+string location_code
+string map_code
