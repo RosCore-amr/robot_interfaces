@@ -21,8 +21,11 @@ set(interface_files
   "msg/InforSevt.msg"
   "msg/LocationStock.msg"
   "msg/LocationSent.msg"
+  "msg/MissionTransport.msg"
   "srv/AddThreeInts.srv"
-  "srv/LocationAsk.srv"
+  "srv/CreatMission.srv"
+  "srv/SearchStock.srv"
+  "srv/ExcuteMission.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}

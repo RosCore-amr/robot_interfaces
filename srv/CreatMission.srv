@@ -3,3 +3,4 @@ LocationStock end_location
 ---
 # int64 mission_ 
 string mission_code 
+string msg 
