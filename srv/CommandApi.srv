@@ -1,0 +1,4 @@
+string url
+string msg_request
+---
+string msg_response 

@@ -1,0 +1,2 @@
+string transport_goods
+string transport_empty_cart
