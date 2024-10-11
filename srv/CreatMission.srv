@@ -1,5 +1,7 @@
-LocationStock entry_location
-LocationStock end_location
+# LocationStock entry_location
+# LocationStock end_location
+
+string mission_request
 ---
 # int64 mission_ 
 string mission_code 
